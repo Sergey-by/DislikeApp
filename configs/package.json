@@ -1,0 +1,17 @@
+{
+    "name": "TagZ_messaging_server",
+    "version": "0.1.0",
+    "description": "",
+    "main": "app.js",
+    "devDependencies": {
+        "express": "3.x",
+        "MD5": "latest",
+        "mysql": "latest",
+        "node-gcm": "latest",
+        "apn": "latest",
+        "crypto-js": "latest",
+        "redis": "latest"
+    },
+    "author": "High Torque Software",
+    "license": ""
+}
